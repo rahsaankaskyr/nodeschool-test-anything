@@ -1,0 +1,13 @@
+
+
+git remote add origin https://github.com/takonyc/nodeschool-test-anything.git
+
+
+
+
+test-anything
+
+
+
+Run sudo npm install test-anything -g
+Run test-anything
